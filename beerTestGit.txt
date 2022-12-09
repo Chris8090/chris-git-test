@@ -1,1 +1,0 @@
-this is a studying Git demo file.
